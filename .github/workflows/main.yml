@@ -24,7 +24,7 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 22
         script: |
-          cd /var/www/client/MyxNovel_client
+          cd /var/www/DoAnWEB_Frontend
           git pull
           git status
           . $HOME/.nvm/nvm.sh
