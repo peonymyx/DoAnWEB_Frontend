@@ -31,7 +31,7 @@ import CategoryMain from "./components/Admin/pageAdmin/CategoryMain.jsx";
 import ListProducts from "./pages/ListProducts.jsx";
 import MyOrder from "./pages/MyOrder.jsx";
 import MyOrderDetail from "./pages/MyOrderDetail.jsx";
-import Favatie from "./pages/favatie.jsx";
+import Favatie from "./pages/Favatie.jsx";
 import CouponAdmin from "./components/Admin/pageAdmin/Coupon.jsx";
 const router = createBrowserRouter([
   {
